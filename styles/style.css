@@ -7,7 +7,7 @@ head .banner-1{
 .font{
   text-align: center;
 
-  margin-top: 158px;
+  
 
 
 
@@ -17,17 +17,9 @@ head .banner-1{
     color:#4E47FF ;
     
 }
-.nav-1{
-    
-    justify-content: space-between;
-    gap: 0px auto 158px 150px;
-}
-nav  li{
-    text-decoration: none;
-    list-style: none;
-    text-align: right;
-    
-}
+
+
+
 
 
 /*button*/
@@ -36,9 +28,6 @@ nav  li{
    border: none;
    border-radius: 5px;
    padding: 12px 32px;
-
-
-
    
 }
 
@@ -47,7 +36,6 @@ nav  li{
 .banner{
 
   text-align: center;
-
 
  }
  
@@ -66,3 +54,15 @@ nav{
   margin: 50px 150px;
 }
 
+.tiktok-sans-title {
+  font-family: "TikTok Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "wdth" 100;
+    color: #4E47FF;
+    padding: 50px 150px;
+    font-size: 34px;
+}
