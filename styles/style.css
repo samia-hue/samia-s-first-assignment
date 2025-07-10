@@ -1,0 +1,68 @@
+/*header style*/
+
+head .banner-1{
+  justify-content: space-between;
+}
+/*font*/
+.font{
+  text-align: center;
+
+  margin-top: 158px;
+
+
+
+}
+
+.nav-title{
+    color:#4E47FF ;
+    
+}
+.nav-1{
+    
+    justify-content: space-between;
+    gap: 0px auto 158px 150px;
+}
+nav  li{
+    text-decoration: none;
+    list-style: none;
+    text-align: right;
+    
+}
+
+
+/*button*/
+.btn {
+   background-color: #4E47FF;
+   border: none;
+   border-radius: 5px;
+   padding: 12px 32px;
+
+
+
+   
+}
+
+/*banner style*/
+ 
+.banner{
+
+  text-align: center;
+
+
+ }
+ 
+.raleway-normal {
+  font-family: "Raleway", sans-serif;
+  font-variation-settings: 65px;
+  font-size: 65px;
+  font-weight:bold;
+  font-style: normal;
+  padding: 60px 220px;
+}
+nav{
+  display: flex;
+  justify-content: space-between;
+  gap: 50px 150px;
+  margin: 50px 150px;
+}
+
