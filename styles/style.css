@@ -98,3 +98,43 @@ nav{
   font-size: 20px;
   color: rgb(110, 108, 108);
 }
+/*skill style*/
+.skills{
+
+  border: 10px;
+}
+.skill-description{
+  color: rgb(209, 204, 204);
+  font-size: smaller;
+  padding: 5px 10px;
+
+}
+.skill-sub-title{
+  padding: 5px 6px;
+
+}
+.skill{
+  display: flex;
+  margin: 0px 149px;
+  
+ 
+  justify-content: space-around;
+  padding: 5px;
+  gap: 0px;
+  
+}
+.skill-title{
+  border: 1px black;
+  box-shadow: 0px 5px 10px 0px rgb(44, 43, 43);
+  padding: 5px 6px;
+}
+/*avater style*/
+.avater{
+  text-align: right;
+  color: rgb(207, 201, 201);
+}
+.date{
+  text-align: right;
+  align-items: center;
+  color: rgb(197, 193, 193);
+}
