@@ -33,6 +33,10 @@ head .banner-1{
    
    
 }
+.btn:hover{
+  background-color: rgb(255, 186, 108);
+  
+}
 
 /*banner style*/
  
@@ -149,13 +153,14 @@ nav{
   margin-bottom: 10px;
   border-radius: 10px;
   border-radius: 0px;
-  background-color: rgb(240, 240, 242);
+  background-color: rgb(192, 192, 213);
 }
 .touch{
   margin-top: 50px;
   text-align: center;
   display: flex;
   justify-content: space-between;
+  background-color: #dbdae7;
 }
 section input[type="text"], section input[type="email"], footer textarea{
   height: 64px;
@@ -174,5 +179,6 @@ section input[type="text"], section input[type="email"], footer textarea{
 .touch{
   display: flex;
   padding: 50px 10px;
-  margin-left: 200px;
+  margin-left: 100px;
+  margin-right: 100px;
 }
