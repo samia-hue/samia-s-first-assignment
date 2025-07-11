@@ -182,3 +182,46 @@ section input[type="text"], section input[type="email"], footer textarea{
   margin-left: 100px;
   margin-right: 100px;
 }
+/*footer style*/
+.footer-sub-title{
+  font-size:16px;
+  text-align: center;
+  padding: 0px 400px;
+  padding-top: 0px;
+}
+.ancor-title{
+  text-align: center;
+  
+  
+  display: inline;
+
+  
+  
+  
+  
+  
+}
+.a-title{
+  text-align: center;
+  justify-content: space-around;
+  text-decoration: none;
+}
+.under-line{
+  text-decoration: none;
+  text-align: center;
+  gap: 40px;
+  margin: 0 20px 300px 0;
+  align-items: center;
+  width: 100%;
+  justify-content: center;
+}
+.anchor{
+  display: inline;
+}
+.under-line:hover{
+  background-color: #4E47FF;
+  color: white;
+}
+.footer-section{
+  text-decoration: none;
+}
