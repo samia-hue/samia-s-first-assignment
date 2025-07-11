@@ -140,3 +140,39 @@ nav{
   align-items: center;
   color: rgb(197, 193, 193);
 }
+/*form*/
+.touch-column{
+  border: 0px;
+}
+.form-btn{
+  border: none;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  border-radius: 0px;
+  background-color: rgb(240, 240, 242);
+}
+.touch{
+  margin-top: 50px;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+section input[type="text"], section input[type="email"], footer textarea{
+  height: 64px;
+  border-radius: 5px;
+  background-color: white;
+  display: block;
+  width: 100%;
+  border: 2px;
+}
+.touch-column{
+  width: 50%;
+  display: flex;
+  text-align: left;
+
+}
+.touch{
+  display: flex;
+  padding: 50px 10px;
+  margin-left: 200px;
+}
